@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/agenghermawan.github.io/static/css/main.04fff022.css",
+    "main.js": "/agenghermawan.github.io/static/js/main.38e3737e.js",
+    "index.html": "/agenghermawan.github.io/index.html",
+    "main.04fff022.css.map": "/agenghermawan.github.io/static/css/main.04fff022.css.map",
+    "main.38e3737e.js.map": "/agenghermawan.github.io/static/js/main.38e3737e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.04fff022.css",
+    "static/js/main.38e3737e.js"
+  ]
+}
